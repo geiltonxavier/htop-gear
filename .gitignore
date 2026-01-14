@@ -1,0 +1,16 @@
+.DS_Store
+.cache/
+
+# Go build outputs
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+/htop-gear
+
+# IDE/editor
+.vscode/
+/.idea/

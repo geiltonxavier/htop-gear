@@ -2,6 +2,8 @@
 
 Visualizador de processos em tempo real, estilo corrida: cada PID vira um carro correndo da esquerda para a direita, com velocidade baseada no uso de CPU e “peso” na RAM. Placar lateral mostra stats ao vivo.
 
+![Demonstração do HTop Gear](./htop-gear.gif)
+
 ## Rodando
 
 ```bash
@@ -23,4 +25,3 @@ go run . --ascii
 
 ## Controles
 - `Ctrl+C` para sair (cursor volta ao normal).
-
